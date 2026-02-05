@@ -24,17 +24,17 @@ This project analyzes bike sharing demand in Seoul to understand how factors suc
 - **Power BI:** Dashboard visualization  
 - **Jupyter Notebook**
 
-## Recommendations  
-- Increase bike availability during morning and evening peak hours.  
-- Allocate more bikes during summer and reduce inventory during winter.  
-- Adjust operations based on weather forecasts, especially during rainfall and snowfall.  
-- Focus on higher bike availability on working days compared to holidays.  
-
 ## Key Insights  
 - Bike rentals peak during morning and evening commute hours  
 - Demand is highest in summer and lowest in winter  
 - Rainfall and snowfall significantly reduce bike usage  
 - Rentals are higher on working days compared to holidays  
+
+## Recommendations  
+- Increase bike availability during morning and evening peak hours.  
+- Allocate more bikes during summer and reduce inventory during winter.  
+- Adjust operations based on weather forecasts, especially during rainfall and snowfall.  
+- Focus on higher bike availability on working days compared to holidays.
 
 ## Outcome  
 The analysis helps understand bike rental demand behavior and supports better planning, efficient resource allocation and improved urban transportation management.
