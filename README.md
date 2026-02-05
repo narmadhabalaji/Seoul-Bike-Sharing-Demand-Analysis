@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project analyzes bike sharing demand in Seoul and identifies how factors such as
-weather, season, time, holidays, and system availability affect bike rentals.
+weather, season, time, holidays and system availability affect bike rentals.
 
 ## Dataset
 - Source: UCI Machine Learning Repository
